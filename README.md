@@ -1,11 +1,15 @@
-# Sample Snack app
+Bài 9 - Navigation + Context
+Họ tên: Vũ Tiến Mạnh 
+MSSV: 23810310375
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Chức năng
+SignIn UI
+Explorer (Search + Categories)
+Account (Avatar + Info)
+Navigation Stack + Bottom Tab
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+màn hình 
+<img width="408" height="672" alt="image" src="https://github.com/user-attachments/assets/ae4296b6-e312-4ce9-8c44-c49d272041ba" />
+<img width="417" height="657" alt="image" src="https://github.com/user-attachments/assets/c2a3415a-95ca-4380-84e6-0b35efb3b1c3" />
+<img width="420" height="716" alt="image" src="https://github.com/user-attachments/assets/88ce0ae3-1ef7-47fa-ab81-9736fb29fe48" />
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
